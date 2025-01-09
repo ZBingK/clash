@@ -1,5 +1,5 @@
-- IP-CIDR,198.18.0.0/16,no-resolve
-- IP-CIDR,198.183.17.0/24,no-resolve
-- IP-CIDR,198.38.96.0/19,no-resolve
-- IP-CIDR,198.45.48.0/20,no-resolve
-- IP-CIDR,198.11.128.0/18,no-resolve
+IP-CIDR,198.18.0.0/16,no-resolve
+IP-CIDR,198.183.17.0/24,no-resolve
+IP-CIDR,198.38.96.0/19,no-resolve
+IP-CIDR,198.45.48.0/20,no-resolve
+IP-CIDR,198.11.128.0/18,no-resolve
